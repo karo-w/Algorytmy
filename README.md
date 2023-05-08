@@ -1,2 +1,2 @@
-� �A�l�g�o�r�y�t�m�y�
-�quick.cpp - na prostej tablicy
+Algorytmy
+QuickSort -> quick.cpp - na prostej tablicy
