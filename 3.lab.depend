@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1678803275 source:c:\users\karol\onedrive\pulpit\studia\c++\laby\3.lab\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<stdlib.h>
+	<algorithm>
+
